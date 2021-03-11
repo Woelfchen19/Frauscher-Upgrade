@@ -1,0 +1,42 @@
+{
+    "name": "AppSourceCop Ruleset",
+    "description": "Ruleset mit möglichst vielen aktiven Regeln",
+    "rules":
+    [
+        {
+            "id": "AS0051",
+            "action": "None",
+            "justification": "AppSourceCop Rule - Logo must have a value in the manifest files. - temporary action:Error -> action:None"
+        },
+        {
+            "id": "AS0084",
+            "action": "None",
+            "justification": "AppSourceCop Rule - The ID range assigned to the extension must be within the allowed range for App Source Apps. - action:Error -> action:None"
+        },
+        {
+            "id": "AS0092",
+            "action": "None",
+            "justification": "AppSourceCop Rule - The 'applicationInsightsKey' property must specify the AAD instrumentation key. - action:Warning -> action:None"
+        },
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "CodeCop Rule - The name of variables and parameters must be suffixed with the type or object name. - action:Info -> action:None"
+        },
+        {
+            "id": "AA0218",
+            "action": "Error",
+            "justification": "CodeCop Rule - You must write a tooltip in the Tooltip property for all controls of type Action and Field that exist on page objects. - action:Warning -> action:Error"
+        },
+        {
+            "id": "AA0220",
+            "action": "Error",
+            "justification": "CodeCop Rule - The value of the Tooltip property of Fields must be filled. - action:Warning -> action:Error"
+        },
+        {
+            "id": "AW0006",
+            "action": "None",
+            "justification": "UICop Rule - Pages and reports should use the UsageCategory and ApplicationArea properties to be searchable. - action:Info -> action:None"
+        }
+    ]
+}

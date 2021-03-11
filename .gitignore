@@ -1,0 +1,7 @@
+**/launch.json
+**/rad.json
+**/*.app
+!**/.alpackages/*.app
+**/.alcache/*.json
+**/.altemplates/*.json
+**/.snapshots

@@ -1,0 +1,29 @@
+{
+    "id":  GUID,
+    "name":  NAME,
+    "publisher": "NAVAX Consulting GmbH",
+    "version": "0.0.1.0",
+    "brief":  BRIEFDESCRIPTION,
+    "description":  DESCRIPTION,
+    "privacyStatement": "https://www.navax.com/de/datenschutz/",
+    "EULA": "https://www.navax.com/de/agb-eula/",
+    "help": "https://www.navax.com/",
+    "url": "https://www.navax.com/",
+    "logo": "logo/navax_schwarz.png",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "16.0.0.0",
+    "application": "16.0.0.0",
+    "idRanges": [
+        {
+            "from":  FROMID,
+            "to":  TOID
+        }
+    ],
+    "contextSensitiveHelpUrl":  HELPURL,
+    "showMyCode": true,
+    "runtime":  RUNTIMEVERSION,
+    "features": [
+        "TranslationFile"
+    ]
+}
