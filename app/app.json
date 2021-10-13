@@ -20,9 +20,9 @@
             "to":  TOID
         }
     ],
-    "contextSensitiveHelpUrl":  HELPURL,
+    "contextSensitiveHelpUrl":  "http://www.navax.app",,
     "showMyCode": true,
-    "runtime":  RUNTIMEVERSION,
+    "runtime":  7.1,
     "features": [
         "TranslationFile"
     ]
