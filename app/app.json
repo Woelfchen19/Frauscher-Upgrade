@@ -1,10 +1,10 @@
 {
-    "id":  GUID,
-    "name":  NAME,
+    "id":  "610d4b0c-7943-4ac2-96bf-6bfd9a8649b6",
+    "name":  "Frauscher Upgrade individual Fields",
     "publisher": "NAVAX Consulting GmbH",
     "version": "0.0.1.0",
-    "brief":  BRIEFDESCRIPTION,
-    "description":  DESCRIPTION,
+    "brief":  "Frauscher Upgrade individual Fields",
+    "description":  "Frauscher Upgrade individual Fields",
     "privacyStatement": "https://www.navax.com/de/datenschutz/",
     "EULA": "https://www.navax.com/de/agb-eula/",
     "help": "https://www.navax.com/",
@@ -12,17 +12,18 @@
     "logo": "logo/navax_schwarz.png",
     "dependencies": [],
     "screenshots": [],
-    "platform": "18.0.0.0",
-    "application": "18.2.0.0",
+    "platform": "1.0.0.0",
+    "application": "14.0.0.0",
     "idRanges": [
         {
-            "from":  FROMID,
-            "to":  TOID
+            "from":  60000,
+            "to":  60010
         }
     ],
-    "contextSensitiveHelpUrl":  "http://www.navax.app",,
+    "target": "Internal",
+    "contextSensitiveHelpUrl":  "http://www.navax.app",
     "showMyCode": true,
-    "runtime":  7.1,
+    "runtime":  "3.0",
     "features": [
         "TranslationFile"
     ]
