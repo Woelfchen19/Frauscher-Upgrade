@@ -37,6 +37,12 @@
             "id": "AW0006",
             "action": "None",
             "justification": "UICop Rule - Pages and reports should use the UsageCategory and ApplicationArea properties to be searchable. - action:Info -> action:None"
+        },
+        {
+            "id": "AA0217",
+            "action": "None",
+            "justification": "UICop Rule - warning AA0217: Use a text constant or label for format string in StrSubstNo.e"
         }
+       
     ]
 }

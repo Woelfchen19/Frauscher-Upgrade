@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-AT" original="Frauscher Upgrade individual Fields">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1957887075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upgrade IndivFields Debug</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsDebugNVX - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1957887075 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsDebugNVX - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1957887075 - Field 505916524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statement Text</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsDebugNVX - Field Statement Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1957887075 - Field 1829431222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statement Text Finished</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsDebugNVX - Field Statement Text Finished - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upgrade IndivFields</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 3997336476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Name</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Company Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 892260937 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Entry Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 3766508163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Number</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Field Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 4079677382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Type</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 4079677382 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text,BigInteger,DateTime,Boolean,Decimal,Date,Time,GUID</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 10237230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Key</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Record Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 2089234503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Number</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Table Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 290430645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value as BigInteger</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Value as BigInteger - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 1466917615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value as Boolean</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Value as Boolean - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 4169080399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value as Date</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Value as Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 4047971876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value as DateTime</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Value as DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 2857187566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value as Decimal</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Value as Decimal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 2439147216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value as Text</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Value as Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 552384060 - Field 4019625248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value as Time</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FRAUpgradeIndivFieldsNVX - Field Value as Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill Original Table (Step 2)</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - NamedType 1278859289" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Would you like to fill the original tables from the backup? This step cannot be undone.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - NamedType FillUpgradeTableQst</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - NamedType 2242362678" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upgrade Table</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - NamedType SQLUpgradeTableLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - NamedType 727779823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restore\Company #1#############################\read #2#############################</source>
+          <note from="Developer" annotates="general" priority="2">DEA=%1 Rücksicherung/Firmen %2 lesen</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - NamedType SQLWindowDlgTxt</note>
+          <target>%1 Rücksicherung/Firmen %2 lesen</target>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - NamedType 2707906725" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Restore is done successfully.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - NamedType StepDoneMsg</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - NamedType 2651679392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel by user</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - NamedType UserErr</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - NamedType 1837153357" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restore\Company #1#############################\read #2#############################\Total #3###############</source>
+          <note from="Developer" annotates="general" priority="2">DEA=%1 Rücksicherung/Firmen %2 lesen %3 Gesamt</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - NamedType WindowDlgTxt</note>
+          <target>%1 Rücksicherung/Firmen %2 lesen %3 Gesamt</target>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Method 108098843 - NamedType 3865867651" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The SQL connection to the database has been closed.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Method SQLSendSQLStatement - NamedType ConnectionClosedErr</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Method 577250071 - NamedType 1220379958" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The SQL Connection information specified is incorrect. Please verify the User ID and Password.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Method SQLServerConnect - NamedType InvalidConnectionErr</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - ReportDataItem 3032014560 - Method 3715240 - NamedType 4288424883" size-unit="char" translate="yes" xml:space="preserve">
+          <source>\\%1 - %2 = %3</source>
+          <note from="Developer" annotates="general" priority="2">DEA=%1 %2 %3</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - ReportDataItem DataLoop - Method OnPostDataItem - NamedType DoneMsg</note>
+          <target>%1 %2 %3</target>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - RequestPage 2516438534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill Original Table (Step 2)</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - RequestPage RequestOptionsPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 360028557 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If this optin is set, the statements will be stored in T71501.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control DebugField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 360028557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debug Statements</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control DebugField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 1497227566 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Place a checkmark here if the backup table should be deleted after the import.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control DeleteVal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 1497227566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete the backup table</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control DeleteVal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 4288417306 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify the SQL Database.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLDatabaseNameField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 4288417306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Database</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLDatabaseNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 2142650979 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify whether you want to import the data by SQL script (recommended) or by AL.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLImportTypeField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 2142650979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of import</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLImportTypeField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 2142650979 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AL,SQL</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLImportTypeField - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 1779139227 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify whether you want to use Windows authentication.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLNTAuthentificationField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 1779139227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NT Authentification</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLNTAuthentificationField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 1869102997 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the password.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLPasswordField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 1869102997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLPasswordField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 2160734814 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If the option is set, the stored data will be transferred from an SQL table that is independent of NAV/BC. For this, the data must have been transferred to this table in the first step.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLRestoreFromSQLTableField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 2160734814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restore from separate SQL Table</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLRestoreFromSQLTableField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 1857820274 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify the SQL Server and the instance.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLServerNameField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 1857820274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Server+Instance</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLServerNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 1012631132 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the username.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLUserIDField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4145671695 - Control 1012631132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillOriginalTableStep2NVX - Control SQLUserIDField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill Upgrade Table (Step 1)</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - NamedType 4288424883" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Backup is done successfully.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - NamedType DoneMsg</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - NamedType 1278859289" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to fill the Upgrade Table with all Modul Data? The data in table %1 will be deleted automatically first.</source>
+          <note from="Developer" annotates="general" priority="2">DEA=%1 Tabelle</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - NamedType FillUpgradeTableQst</note>
+          <target>%1 Tabelle</target>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - NamedType 2242362678" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Upgrade Table</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - NamedType SQLUpgradeTableLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - NamedType 727779823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Backup of Company #1#####################################\Table #2#####################################</source>
+          <note from="Developer" annotates="general" priority="2">DEA="%1 Firma %2 Tabelle"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - NamedType SQLWindowDlgTxt</note>
+          <target>%1 Firma %2 Tabelle</target>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - NamedType 2651679392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel by user</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - NamedType UserErr</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - NamedType 1837153357" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Backup of Company #1#####################################\Table #2##################################### Remaining #3########</source>
+          <note from="Developer" annotates="general" priority="2">DEA=%1 Firma %2 Tabelle %3 verbleibend</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - NamedType WindowDlgTxt</note>
+          <target>%1 Firma %2 Tabelle %3 verbleibend</target>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Method 108098843 - NamedType 3865867651" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The SQL connection to the database has been closed.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Method SQLSendSQLStatement - NamedType ConnectionClosedErr</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Method 577250071 - NamedType 1220379958" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The SQL Connection information specified is incorrect.  Please verify the User ID and Password.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Method SQLServerConnect - NamedType InvalidConnectionErr</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - RequestPage 2516438534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill Upgrade Table (Step 1)</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - RequestPage RequestOptionsPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 360028557 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If this optin is set, the statements will be stored in T71501.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control DebugField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 360028557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debug Statements</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control DebugField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 4288417306 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify the SQL Database.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLDatabaseNameField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 4288417306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Database</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLDatabaseNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1974416748 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify whether you want to export the data by SQL script (recommended) or by AL.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLExportTypeField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1974416748 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of export</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLExportTypeField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1974416748 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AL,SQL</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLExportTypeField - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1779139227 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify whether you want to use Windows authentication.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLNTAuthentificationField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1779139227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NT Authentification</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLNTAuthentificationField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1869102997 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the password.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLPasswordField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1869102997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLPasswordField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1951428382 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If the option is set, the saved data will be transferred from the Upgrade Table to a new SQL table that is independent from NAV/BC. If the option is not selected, SQL will only save to the Upgrade Table and not to the separate SQL table.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLSaveInSQLTableField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1951428382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Save in separate SQL table</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLSaveInSQLTableField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1857820274 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify the SQL Server and the instance.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLServerNameField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1857820274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Server+Instance</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLServerNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1012631132 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the username.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLUserIDField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4070633296 - Control 1012631132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FRAFillUpgradeTablesStep1NVX - Control SQLUserIDField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2114515591 - Action 4131373313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Copy Data to Extensiontables</source>
+          <note from="Developer" annotates="general" priority="2">DEA="Daten kopieren in den Erweiterungstabellen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FRACompanyInfoExtNVX - Action CopyDataToExtension - Property Caption</note>
+          <target>Daten kopieren in den Erweiterungstabellen</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2114515591 - Action 4254856415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Start</source>
+          <note from="Developer" annotates="general" priority="2">DEA="Starten"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FRACompanyInfoExtNVX - Action Copy - Property Caption</note>
+          <target>Starten</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

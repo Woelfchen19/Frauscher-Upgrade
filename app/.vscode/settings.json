@@ -1,15 +1,20 @@
 {
-    "CRS.ObjectNamePrefix": NAMENSPREFIX,
+    "CRS.ObjectNamePrefix": "FRA",
     "CRS.ObjectNameSuffix": "NVX",
     "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
-    "al.enableCodeAnalysis": true,
+    //"al.enableCodeAnalysis": true,
     "al.codeAnalyzers": [
         "${CodeCop}",
         "${AppSourceCop}",
         "${UICop}",
         "${PerTenantExtensionCop}"
     ],
-    "al.ruleSetPath": ".vscode\\ruleset.json"
-}
+    "al.ruleSetPath": ".vscode\\ruleset.json",
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "C:\\Windows\\Microsoft.NET\\assembly\\GAC_32\\mscorlib",
+        "C:\\Windows\\Microsoft.NET\\"
+    ]    
+}    
